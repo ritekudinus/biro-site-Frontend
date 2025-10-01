@@ -1,0 +1,63 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Workshop Pengembangan Web Modern",
+      "description": "Pelajari teknologi web terbaru seperti Next.js, React, dan Tailwind CSS dalam workshop intensif selama 2 hari. Dapatkan pengalaman hands-on dalam membangun aplikasi web yang responsif dan modern.",
+      "thumbnail": "/placeholder/placeholder.svg",
+      "date": "15 Oktober 2024",
+      "location": "Jakarta Convention Center",
+      "duration": "2 hari"
+    },
+    {
+      "id": 2,
+      "title": "Seminar Digital Marketing Terkini",
+      "description": "Eksplorasi strategi digital marketing yang efektif di era modern. Pelajari tentang SEO, social media marketing, content marketing, dan analytics untuk meningkatkan bisnis Anda.",
+      "thumbnail": "/placeholder/placeholder.svg",
+      "date": "22 Oktober 2024",
+      "location": "Hotel Mulia Jakarta",
+      "duration": "2 hari"
+    },
+    {
+      "id": 3,
+      "title": "Bootcamp Mobile App Development",
+      "description": "Intensive bootcamp untuk mempelajari pengembangan aplikasi mobile menggunakan React Native dan Flutter. Cocok untuk pemula hingga intermediate developer yang ingin menguasai mobile development.",
+      "thumbnail": "/placeholder/placeholder.svg",
+      "date": "5 November 2024",
+      "location": "Binus University",
+      "duration": "2 hari"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Panduan Lengkap Memulai Career di Tech Industry",
+      "description": "Industri teknologi menawarkan peluang karir yang menjanjikan. Artikel ini membahas langkah-langkah praktis untuk memulai karir di bidang teknologi, mulai dari skill yang dibutuhkan, portfolio yang menarik, hingga tips interview yang efektif.",
+      "author": "Sarah Wijaya",
+      "publishDate": "20 Sep 2024",
+      "category": "Karir",
+      "thumbnail": "/placeholder/placeholder.svg",
+      "slug": "panduan-lengkap-memulai-career-di-tech-industry"
+    },
+    {
+      "id": 2,
+      "title": "Tren Teknologi 2024: AI dan Machine Learning",
+      "description": "Artificial Intelligence dan Machine Learning terus berkembang pesat. Pelajari tren terbaru, implementasi praktis, dan bagaimana teknologi ini akan mengubah berbagai industri dalam beberapa tahun ke depan.",
+      "author": "Dr. Ahmad Rizki",
+      "publishDate": "18 Sep 2024",
+      "category": "Teknologi",
+      "thumbnail": "/placeholder/placeholder.svg",
+      "slug": "tren-teknologi-2024-ai-dan-machine-learning"
+    },
+    {
+      "id": 3,
+      "title": "Best Practices dalam Pengembangan Web Aplikasi",
+      "description": "Kualitas kode dan performa aplikasi sangat penting dalam pengembangan web. Artikel ini mengulas best practices yang harus diterapkan, termasuk clean code, testing, optimization, dan security considerations.",
+      "author": "Budi Santoso",
+      "publishDate": "15 Sep 2024",
+      "category": "Web Development",
+      "thumbnail": "/placeholder/placeholder.svg",
+      "slug": "best-practices-dalam-pengembangan-web-aplikasi"
+    }
+  ]
+}
